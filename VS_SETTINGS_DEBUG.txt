@@ -1,5 +1,5 @@
 DEBUGGER ENVIROMENTS
-PATH=C:\dev\mj_ext\glew-2.1.0\bin\Debug\x64;C:\dev\mj_ext\SDL2-2.0.6\lib\Release\x64;C:\dev\mj_ext\SDL2_ttf-2.0.14\lib\x64;C:\dev\mj_ext\irrKlang-1.5.0\bin\x64;C:\dev\mj_ext\DevIL-1.8.0\lib\x64\Release;C:\dev\mj_ext\assimp-3.3.1\lib\Debug\x64;C:\dev\mj_ext\boost-1.65.1\libs
+PATH=Engine\dependencies\glew-2.1.0\bin\Release\x64;Engine\dependencies\SDL2-2.0.6\lib\Release\x64;Engine\dependencies\SDL2_ttf-2.0.14\lib\x64;Engine\dependencies\irrKlang-1.5.0\bin\x64;Engine\dependencies\DevIL-1.8.0\lib\x64\Release;Engine\dependencies\assimp-3.3.1\lib\Release\x64;Engine\dependencies\boost-1.65.1\libs
 
 INCLUDE DIRECTORIES
 
